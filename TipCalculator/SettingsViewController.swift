@@ -26,6 +26,7 @@ class SettingsViewController: UIViewController {
         PercentField2.text = String(format: "%.0f",defaults.doubleForKey("default_tip2")*100)
         PercentField3.text = String(format: "%.0f",defaults.doubleForKey("default_tip3")*100)
         
+        
     }
 
     override func didReceiveMemoryWarning() {
@@ -57,6 +58,7 @@ class SettingsViewController: UIViewController {
         defaults.synchronize()
         
         SavedLabel.hidden = false
+        view.endEditing(true)
     }
     @IBAction func OnTap(sender: AnyObject) {
         view.endEditing(true)
