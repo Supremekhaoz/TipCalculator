@@ -31,6 +31,8 @@ class ViewController: UIViewController {
         defaults.setDouble(percent2, forKey: "default_tip2")
         defaults.setDouble(percent3, forKey: "default_tip3")
         defaults.synchronize()
+        
+        BillField.becomeFirstResponder()
     }
     
     override func viewWillAppear(animated: Bool) {
