@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "Second Percentage"; ObjectID = "5OT-ub-5QL"; */
+"5OT-ub-5QL.text" = "Second Percentage";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "74d-Cn-a9r"; */
+"74d-Cn-a9r.title" = "Settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7o2-NX-6MW"; */
+"7o2-NX-6MW.text" = "Label";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "CB7-K7-J6Z"; */
+"CB7-K7-J6Z.text" = "%";
+
+/* Class = "UILabel"; text = "Tip"; ObjectID = "Dxn-0b-bPw"; */
+"Dxn-0b-bPw.text" = "Tip";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "Ixz-iy-ytZ"; */
+"Ixz-iy-ytZ.text" = "%";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "LmH-zG-Cco"; */
+"LmH-zG-Cco.title" = "Save";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Pcd-Jk-Xb8"; */
+"Pcd-Jk-Xb8.text" = "Total";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "Ut4-6Y-lrd"; */
+"Ut4-6Y-lrd.title" = "Settings";
+
+/* Class = "UINavigationItem"; title = "Tipper"; ObjectID = "fZh-OW-vGL"; */
+"fZh-OW-vGL.title" = "Tipper";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "htf-D1-hHq"; */
+"htf-D1-hHq.text" = "Label";
+
+/* Class = "UILabel"; text = "Saved!"; ObjectID = "lxP-nB-FdR"; */
+"lxP-nB-FdR.text" = "Saved!";
+
+/* Class = "UISegmentedControl"; o26-FJ-XMt.segmentTitles[0] = "4"; ObjectID = "o26-FJ-XMt"; */
+"o26-FJ-XMt.segmentTitles[0]" = "4";
+
+/* Class = "UISegmentedControl"; o26-FJ-XMt.segmentTitles[1] = "4"; ObjectID = "o26-FJ-XMt"; */
+"o26-FJ-XMt.segmentTitles[1]" = "4";
+
+/* Class = "UISegmentedControl"; o26-FJ-XMt.segmentTitles[2] = "30"; ObjectID = "o26-FJ-XMt"; */
+"o26-FJ-XMt.segmentTitles[2]" = "30";
+
+/* Class = "UILabel"; text = "Bill Amount"; ObjectID = "p4a-0W-P4d"; */
+"p4a-0W-P4d.text" = "Bill Amount";
+
+/* Class = "UILabel"; text = "Third Percentage"; ObjectID = "qgH-vY-d0D"; */
+"qgH-vY-d0D.text" = "Third Percentage";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "sEO-2g-u0K"; */
+"sEO-2g-u0K.text" = "%";
+
+/* Class = "UILabel"; text = "First Percentage"; ObjectID = "tiF-sH-0Bb"; */
+"tiF-sH-0Bb.text" = "First Percentage";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "vBv-OQ-ujM"; */
+"vBv-OQ-ujM.text" = "$";
